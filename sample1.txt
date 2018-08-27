@@ -1,0 +1,31 @@
+15
+input[0]: 1, 0
+target[0]: 1
+input[1]: 0.9, 0.1
+target[1]: 1
+input[2]: 0.3, 0.4
+target[2]: 0.7
+input[3]: 0.4, 0.4
+target[3]: 0.8
+input[4]: 0.3, 0.5
+target[4]: 0.8
+input[5]: 1, 0
+target[5]: 1
+input[6]: 0.5, 0.1
+target[6]: 0.6
+input[7]: 0.1, 0.4
+target[7]: 0.5
+input[8]: 0.3, 0.3
+target[8]: 0.6
+input[9]: 0.5, 0.5
+target[9]: 1
+input[10]: 0.3, 0
+target[10]: 0.3
+input[11]: 0.9, 0
+target[11]: 0.9
+input[12]: 0, 0.4
+target[12]: 0.4
+input[13]: 0.2, 0.8
+target[13]: 1
+input[14]: 0.2, 0.5
+target[14]: 0.7
